@@ -1,9 +1,9 @@
 {
   "name" : "shoelace-ui-font-family",
-  "version" : "0.0.1",
-  "description" : "Font-family variables",
+  "version" : "0.1.0",
+  "description" : "Font-family variables and mixin",
   "repository" : "https://github.com/shoelace-ui/font-family.git",
-  "keywords" : ["stylus","font-family","variable","variables"],
+  "keywords" : ["stylus", "font", "font-family"],
   "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
   "license" : "MIT"
 }

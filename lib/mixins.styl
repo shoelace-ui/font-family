@@ -1,0 +1,15 @@
+/**
+ * Module dependencies
+ */
+
+@require './variables'
+
+/**
+ * Replace `serif`, `sans-serif`, etc., with `font-family--...`
+ * if available.
+ *
+ * @mixin
+ */
+
+font-family(arg)
+  add-property('font-family', (lookup('font-family--' + arg) or arg))

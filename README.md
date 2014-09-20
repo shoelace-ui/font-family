@@ -5,8 +5,15 @@ Font-family variables.
 ## Installation
 
 ```sh
-$ npm install git://github.com/shoelace-ui/font-family.git
+$ npm install shoelace-ui-font-family
 ```
+
+## Usage
+
+```styl
+@require 'shoelace-ui-font-family
+```
+
 
 ## License
 
